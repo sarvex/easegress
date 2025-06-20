@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.12.0
 	github.com/fatih/structs v1.1.0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-chi/chi/v5 v5.0.3
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-zookeeper/zk v1.0.2
 	github.com/hashicorp/consul/api v1.8.1
 	github.com/hashicorp/golang-lru v0.5.4
